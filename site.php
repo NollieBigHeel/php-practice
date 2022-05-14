@@ -12,5 +12,7 @@
   echo "<p>Welcome to my site</p>";
   ?>
 
+  <img src="spagbowl.jpg" alt="A bowl of spaghetti" width="300" height="400">
+
   </body>
 </html>
